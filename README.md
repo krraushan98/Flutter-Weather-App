@@ -10,10 +10,46 @@ This app has two pages first one is Home page where a search bar and button to t
 
 
 ## How to Run 
-1. Download and install flutter
-2. Clone Project using 'git clone <repo_link>' command
-3. Get all Dependencies using 'flutter pub get' command
-4. Run project using 'flutter run' command  
+Prerequisites
+
+Install Flutter: Ensure Flutter is installed on your system. Follow the official Flutter installation guide for your operating system.
+Install Git: Make sure Git is installed. You can download it from Git's official site.
+
+Steps to Run a Flutter App from GitHub
+
+1.Clone the Repository
+
+  Open your terminal or command prompt and clone the repository using the following command:
+
+  git clone <repository_url>
+
+  Replace <repository_url> with the actual URL of the GitHub repository.
+
+2.Navigate to the Project Directory
+
+  Change your directory to the newly cloned repository:
+
+  cd <repository_name>
+
+  Replace <repository_name> with the name of the cloned repository folder.
+
+3.Install Dependencies
+
+  Ensure you have all the necessary dependencies by running:
+
+  flutter pub get
+
+  Set Up Your Development Environment
+
+  Android: Ensure you have an Android emulator or a physical device connected.
+  iOS: Ensure you have Xcode installed and an iOS simulator or a physical device connected. (macOS required)
+  Run the App
+
+4.To run the app, use the following command:
+
+  flutter run
+
+  This command will build and deploy the app to the connected device or emulator.
 
 
 A few resources to get you started if this is your first Flutter project:
