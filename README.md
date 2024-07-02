@@ -1,6 +1,7 @@
-# weatheapp
+# Weather App 
 
-A new Flutter project.
+This is a Weather Andriod Application which is developed using Flutter framework and dart programming language. This app provides the current weather information of provided city with the help of openweathermap API.
+This app has two pages first one is Home page where a search bar and button to toggle the search functionality and second page shows the deatils of weather of provided city.
 
 ## Getting Started
 
