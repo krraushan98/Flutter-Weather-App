@@ -21,7 +21,7 @@ Steps to Run a Flutter App from GitHub
 
   Open your terminal or command prompt and clone the repository using the following command:
 
-  git clone <repository_url>
+  'git clone <repository_url>'
 
   Replace <repository_url> with the actual URL of the GitHub repository.
 
@@ -29,7 +29,7 @@ Steps to Run a Flutter App from GitHub
 
   Change your directory to the newly cloned repository:
 
-  cd <repository_name>
+  'cd <repository_name>'
 
   Replace <repository_name> with the name of the cloned repository folder.
 
@@ -37,7 +37,7 @@ Steps to Run a Flutter App from GitHub
 
   Ensure you have all the necessary dependencies by running:
 
-  flutter pub get
+  'flutter pub get'
 
   Set Up Your Development Environment
 
@@ -47,7 +47,7 @@ Steps to Run a Flutter App from GitHub
 
 4.To run the app, use the following command:
 
-  flutter run
+  'flutter run'
 
   This command will build and deploy the app to the connected device or emulator.
 
