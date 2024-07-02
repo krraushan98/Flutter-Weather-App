@@ -2,10 +2,12 @@
 
 This is a Weather Andriod Application which is developed using Flutter framework and dart programming language. This app provides the current weather information of provided city with the help of openweathermap API.
 This app has two pages first one is Home page where a search bar and button to toggle the search functionality and second page shows the deatils of weather of provided city.
-![image](https://github.com/krraushan98/Flutter-Weather-App/assets/106869444/bf87731b-eab5-4454-adec-9434609fb766) 
-Home Page
+
+
+![image](https://github.com/krraushan98/Flutter-Weather-App/assets/106869444/bf87731b-eab5-4454-adec-9434609fb766)   
+
 ![image](https://github.com/krraushan98/Flutter-Weather-App/assets/106869444/afa1a5c3-42db-4bd9-a905-31cd4046473e) 
-Weather Detail page
+
 
 ## How to Run 
 1. Download and install flutter
